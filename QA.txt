@@ -1,0 +1,1 @@
+Este archivo debe aparecer solo en la rama QA
